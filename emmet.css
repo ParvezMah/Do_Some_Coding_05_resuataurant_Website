@@ -1,0 +1,39 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+
+html, body{
+    line-height: 1.4;
+    font-family: sans-serif;
+}
+#header{
+    color: rgba(1, 1, 2, 1.9);
+    table-layout: 1px;
+    table-layout: auto;
+    table-layout: fixed;
+    caption-side: top;
+    caption-side: bottom;
+    empty-cells: show;
+    empty-cells: show;
+    empty-cells: hide;
+    border: 1px solid #000; 
+    border: none;
+    border-collapse: collapse;
+    border-collapse: separate;
+    border-color: #000;
+    border-image: url( );
+    font: 1em sans-serif;
+    font-weight: normal;
+    font-weight: normal;
+    font-weight: bold;
+    font-weight: bolder;
+    font-weight: lighter;
+    font-style: italic;
+    font-style: normal;
+    font-style: italic;
+    font-style: oblique;
+    font-variant: normal;
+    font-variant-caps: all-petite-caps;
+    font-size: 10;
+
+}
